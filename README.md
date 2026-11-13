@@ -2,10 +2,6 @@
 
 Describe a real-world problem → get a project plan, cost, skills needed, and **people from the database who can build it**.
 
-## Run it (Windows)
-Double-click **`start.bat`**. It opens two windows: the backend (port 5000) and the website (port 5173).
-Then open http://localhost:5173
-
 - Restart only the backend: `start-backend.bat`
 - Manual: `npm run server` and `npm run dev` in two terminals
 
